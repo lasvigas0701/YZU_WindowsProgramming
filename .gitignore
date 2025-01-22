@@ -1,0 +1,13 @@
+﻿Material/
+*vs/
+*bin/
+*obj/
+*csproj
+*sln
+*resx
+*.docx
+*.pdf
+*.zip
+*App.config
+*Properties/
+Sample*/
