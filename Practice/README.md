@@ -9,7 +9,7 @@
 |WEEK06|File|
 |WEEK07|Toolbar & statusbar|
 |WEEK08|Graphics II|
-|WEEK9|Mid-Exam|
+|WEEK09|Mid-Exam|
 |WEEK10|Graphics III|
 |WEEK11|Bitmap I|
 |WEEK12|Bitmap II|
